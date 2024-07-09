@@ -41,3 +41,137 @@
     font-size: 20px;
     font-weight: 400;
 }
+
+
+/* why web development styles */
+.web-development-container{
+    width: 1025px;
+    height: 1103px;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    background-color: rgba(13, 19, 33, 0.02);
+}
+.web-development-container h4{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    padding-top: 20px;
+    
+}
+.web-development-container p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 300;
+   
+}
+.web-first-content{
+    width: 946px;
+    height: 250px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 30px;
+    display: flex;
+    padding: 20px;
+   
+}
+.web-first-content-left{
+    width: 50%;
+    height: 250px;
+    text-align: left;
+}
+.web-first-content-left h5{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+}
+.web-first-content-left p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.web-first-content-right{
+    width: 50%;
+    height: 250px;
+}
+
+.web-second-content{
+    width: 946px;
+    height: 250px;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+   
+}
+.web-second-content-left{
+    width: 40%;
+    height: 250px;
+}
+.web-second-content-right{
+    width: 60%;
+    height: 250px;
+    text-align: left;
+    padding-right: 25px;
+}
+.web-second-content-right h5{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+}
+.web-second-content-right p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.web-third-content{
+    width: 946px;
+    height: 250px;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+   
+}
+.web-third-content-left{
+    width: 50%;
+    height: 250px;
+}
+.web-third-content-right{
+    width: 50%;
+    height: 336px;
+}
+.web-third-content-left h5{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+}
+.web-third-content-left p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.web-button{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 17px;
+    font-weight: 500;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    align-items: center;
+    padding: 12px 20px 12px 20px;
+}
