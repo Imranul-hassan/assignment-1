@@ -208,3 +208,74 @@
     border-radius: 16px;
   
 }
+
+/* My current target styles */
+.current-target-container{
+    width: 1025px;
+    height: 440px;
+    margin: 0 auto;
+    margin-top: 220px;
+    border: 2px solid red;
+}
+.current-target-container-heading{
+    width: 750px;
+    height: 100px;
+    margin: 0 auto;
+}
+.current-target-container-heading h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+}
+.current-target-container-heading p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+    text-align: center;
+    }
+.current-target-content{
+    width: 1025px;
+    height: 300px;
+    display: flex;
+    text-align: center;
+    justify-content:center ;
+    margin-top: 30px;
+}
+.current-target-html{
+    background: rgba(255, 76, 30, 0.05);
+    width: 33%;
+    text-align: justify;
+    padding: 25px;
+    border: 2px solid red;  
+}
+.current-target-css{
+    background: rgba(0, 76, 232, 0.05);
+    width: 33%;
+    text-align: justify;
+    padding: 25px;
+    border: 2px solid red;  
+}
+.current-target-javascript{
+    background: rgba(255, 223, 0, 0.05);
+    width: 33%;
+    text-align: justify;
+    padding: 25px;
+    border: 2px solid red;  
+}
+.current-target-content-heading{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.learn-more-option{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+   
+}
+
