@@ -215,7 +215,6 @@
     height: 440px;
     margin: 0 auto;
     margin-top: 220px;
-    border: 2px solid red;
 }
 .current-target-container-heading{
     width: 750px;
@@ -249,22 +248,19 @@
     background: rgba(255, 76, 30, 0.05);
     width: 33%;
     text-align: justify;
-    padding: 25px;
-    border: 2px solid red;  
+    padding: 25px; 
 }
 .current-target-css{
     background: rgba(0, 76, 232, 0.05);
     width: 33%;
     text-align: justify;
-    padding: 25px;
-    border: 2px solid red;  
+    padding: 25px;  
 }
 .current-target-javascript{
     background: rgba(255, 223, 0, 0.05);
     width: 33%;
     text-align: justify;
-    padding: 25px;
-    border: 2px solid red;  
+    padding: 25px; 
 }
 .current-target-content-heading{
     margin-top: 15px;
@@ -278,4 +274,39 @@
     text-decoration-line: underline;
    
 }
+
+/* need-support-container */
+.need-support-container{
+    background-image: url("../assets/handshake.jpg");
+    width: 1025px;
+    height: 313px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.support-content-heading{
+    text-align: center;
+    width: 750px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
+   
+}
+.support-content-description input{
+    text-align: center;
+    padding: 4px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: rgb(255, 255, 255);
+}
+.support-button{
+    color: rgb(13, 19, 33);
+    padding: 4px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+}
+.support-content-description{
+    text-align: center;
+}
+
 
