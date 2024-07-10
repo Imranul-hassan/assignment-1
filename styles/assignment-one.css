@@ -325,6 +325,8 @@
     text-align: center;
 } */
 .support-content-description input{
+    height: 20px;
+	width: 300px;
     padding: 8px 80px;
     border: 1px solid rgba(13, 19, 33, 0.15);
     border-radius: 5px;
@@ -333,7 +335,7 @@
 }
 .support-button{
     color: rgb(13, 19, 33);
-    padding: 7px;
+    padding: 8px;
     border-radius: 5px;
     border: 1px solid rgba(13, 19, 33, 0.15);
     background: rgb(255, 255, 255);
